@@ -14,7 +14,7 @@ node --version
 
 **If it shows the version of your Node.js then go to next step otherwise click on this link https://nodejs.org/en and install Node.js** 
 
-* ⚠️ *NOTE: You need v18 or uper version of Node.js.**
+* ⚠️ *NOTE: You need v18 or uper version of Node.js.*
 
 #  ▶️ Step : 1 Open command prompt:
 
@@ -131,4 +131,4 @@ hi
 
 ### Expected: Claude responds with a greeting confirming it's working! ✅ Success!
 
-## 🎉 Congratulations You Successfully Run Claude Code With Qwen 🎉 
+## 🎉 Congratulations You Successfully Run Claude Code With Qwen  
